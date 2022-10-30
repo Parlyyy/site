@@ -10,3 +10,7 @@ def index(request):
     c = 1
     b = a
     g = c + b
+    #ldosdlsdfsdf
+    # ldosdlsdfsdf
+    # ldosdlsdfsdf
+    # ldosdlsdfsdf
