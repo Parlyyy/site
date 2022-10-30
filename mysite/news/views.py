@@ -7,6 +7,7 @@ def index(request):
     news = News.objects.order_by('-created_at')
     return render(request, 'news/index.html', {'news': news, 'title': 'Список новотсей'})
 
+
     c = 1
     b = a
     g = c + b
@@ -14,3 +15,16 @@ def index(request):
     # ldosdlsdfsdf
     # ldosdlsdfsdf
     # ldosdlsdfsdf
+
+
+
+
+
+
+
+
+
+
+
+#lollololollllolol
+
