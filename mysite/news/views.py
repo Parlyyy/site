@@ -8,4 +8,13 @@ def index(request):
     return render(request, 'news/index.html', {'news': news, 'title': 'Список новотсей'})
 
 
+
+
+
+
+
+
+
+
+
 #lollololollllolol
