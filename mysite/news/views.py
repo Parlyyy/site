@@ -7,4 +7,5 @@ def index(request):
     news = News.objects.order_by('-created_at')
     return render(request, 'news/index.html', {'news': news, 'title': 'Список новотсей'})
 
-#xyi
+
+#lollololollllolol
