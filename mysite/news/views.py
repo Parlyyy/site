@@ -18,13 +18,5 @@ def index(request):
 
 
 
-
-
-
-
-
-
-
-
 #lollololollllolol
 
